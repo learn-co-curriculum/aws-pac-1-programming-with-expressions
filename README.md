@@ -387,8 +387,7 @@ language generally follows these same steps. It's a proven general structure for
 finding your bearings in a programming language. Feel free to return to it.
 
 As you build code in future lessons, be sure to try to make tiny changes and
-make sure the code still works. Flatiron School has learned that the students
-who are most successful in our programs are those who make the most "small hops"
+make sure the code still works. The students who are most successful in these programs are those who make the most "small hops"
 away from the given content to make the content their own. Programmers usually
 call this "playing with the code." Try swapping out a conditional expression,
 nesting a ternary within a ternary, turning a conditional from < to <=, etc. As
