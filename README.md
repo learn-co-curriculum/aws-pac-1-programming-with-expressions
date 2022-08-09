@@ -393,7 +393,7 @@ call this "playing with the code." Try swapping out a conditional expression,
 nesting a ternary within a ternary, turning a conditional from < to <=, etc. As
 you move on, make sure you continue to play with all the skills you've learned
 so far. If you need help making those "small hops" be sure to work with your
-community via Slack. You won't regret the investment.
+fellow students. You won't regret the investment.
 
 By the way, doing this exact work is how most programmers orient themselves to a
 new language. Having the skill of getting started in a new language is a rocket
